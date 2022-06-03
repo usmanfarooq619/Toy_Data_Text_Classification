@@ -1,4 +1,4 @@
-# Toy_Data_Text_Classification
+# Comparison of multiple techniques of text classification for imbalanced toy dataset
 We are comparing multiple approaches for text classification on toy dataset.
 
 ## Different Approaches that can be used
